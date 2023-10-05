@@ -1,0 +1,24 @@
+What are different shells in Linux?
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans”.
+
+Types of Shells in Linux/Unix Explained - Shell Scripting Tutorial-27
+https://www.youtube.com/watch?v=L5sIloebfhs
+
+Q1	WHAT IS SHELL SCRIPTING IN LINUX?
+
+ANS	Shell scripting in Linux is a language to perform operations using CLI
+Q2 	What is Linux shell scripting used for?
+
+ANS	Shell scripting is used to perform different tasks/operations using Linux CLI environment
+Q3	What are the types of shell?
+
+ANS	Bash, Bourne shell, Csh (CShell), Tenex C Shell
+Q4 	What is the difference between Sh and Bash shell?
+
+ANS	Sh is relatively simple and lacks most of the modern shell features whereas Bash shell is powerful and has enhance n rich features.
+
+
+
