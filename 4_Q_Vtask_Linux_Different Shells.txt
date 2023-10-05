@@ -19,6 +19,6 @@ ANS	Bash, Bourne shell, Csh (CShell), Tenex C Shell
 Q4 	What is the difference between Sh and Bash shell?
 
 ANS	Sh is relatively simple and lacks most of the modern shell features whereas Bash shell is powerful and has enhance n rich features.
-
+Commit
 
 
