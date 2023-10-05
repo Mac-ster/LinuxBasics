@@ -1,0 +1,50 @@
+
+Introduction to the LINUX
+Watch the below video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below. You need to type in the Answer in the row indicated with “Ans”
+
+Linux – Linux Tutorials – The file system | geeksforgeeks
+https://www.youtube.com/watch?v=JwgTeXfQdIg
+Q1
+Simple text file is an example of
+Ans
+ordinary file
+Q2
+File used to represent a physical device
+Ans
+Device file
+Q3
+Why is an upper-case file not the same as a lower-case file name in Linux
+Ans
+File name in Linux are case sensitive.
+Q4
+What is the max character limit in a file name
+Ans
+255
+Q5
+Command that shows us the path with respect to the root directory
+Ans
+pwd
+Q6
+Relative path never starts with a
+Ans
+/
+Q7
+Path which starts in your present working directory
+Ans
+.
+Q8
+Command to show the directories under the present working directory
+Ans
+ls -l
+Q9
+Command to change working directory
+Ans
+cd
+Q1
+What symbol do we use to move to the parent directory
+Ans
+cd ..
+
+
+
