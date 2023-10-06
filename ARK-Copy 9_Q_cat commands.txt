@@ -1,0 +1,27 @@
+Introduction to the LINUX
+Watch the below video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below. You need to type in the Answer in the row indicated with “Ans”
+
+Linux – cat command (command of Linux) | Linux Leech
+https://www.youtube.com/watch?v=SDuNvlmTQS8
+Q1	Keyboard shortcut for opening terminal
+Ans	Ctrl + Alt + T
+Q2	What does cat stand for
+Ans	Catenate
+Q3	What does catenate mean
+Ans	Arrange string of character in chained list
+Q4	How to echo text using cat command
+Ans	By using cat command and enter
+Q5	How to exit out of cat command
+Ans	Ctlr + D
+Q6	Command used to check current directory
+Ans	Pwd
+Q7	Command used to change directoy
+Ans	Cd
+Q8	Command used to list files in the present working directory
+Ans	Ls
+Q9	How to print a file in the terminal
+Ans	Cat filename
+Q10	Command that allows us to look into files without opening programs
+Ans	Cat filename
+

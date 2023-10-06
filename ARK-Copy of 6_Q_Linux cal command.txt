@@ -1,0 +1,49 @@
+Introduction to the LINUX
+Watch the below video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below. You need to type in the Answer in the row indicated with “Ans”
+
+Linux – Calendar command cal | vigian University
+https://www.youtube.com/watch?v=-yStiRgKY28
+Q1
+How can you check the current month
+Ans
+cal
+Q2
+how do you check the calendar for the current month
+Ans
+cal
+Q3
+Command to check the calendar for year 2100
+Ans
+cal 2100
+Q4
+Command to check the calendar for the month of august in the year 2099
+Ans
+cal 8 2099
+Q5
+When there are two arguments with cal what is the first argument considered
+Ans
+month
+Q6
+When there is only one argument what is the argument considered
+Ans
+year
+Q7
+How to display the Julian calendar with the cal command
+Ans
+cal -j
+Q8
+how to check the calendar for the current year
+Ans
+cal -y
+Q9
+How to display calendar for the next 3 months
+Ans
+cal -3
+Q10
+How to display calendar for the September 1900
+Ans
+cal 9 1900
+
+
+

@@ -41,7 +41,7 @@ Q9
 Command to change working directory
 Ans
 cd
-Q1
+Q10
 What symbol do we use to move to the parent directory
 Ans
 cd ..
