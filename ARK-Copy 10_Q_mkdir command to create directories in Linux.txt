@@ -1,0 +1,28 @@
+Introduction to the LINUX
+Watch the below video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below. You need to type in the Answer in the row indicated with “Ans”
+
+Linux – how to use mkdir command to create directories in Linux | Mayank Agarwal
+https://www.youtube.com/watch?v=24Eo8Y-Z-AE
+Q1	what is the command to make directory in Linux
+Ans	Mkdir
+Q2	what does mkdir stand for
+Ans	Make Directory
+Q3	sample syntax for mkdir command
+Ans	Mkdir directory-name
+Q4	what does mkdir xyz do
+Ans	Create new directory name xyz
+Q5	Shortcut to create a subdirectory in home directory
+Ans	Mkdir -p home/subdirectory
+Q6	how to make a nested subdirectory
+Ans	Mkdir -p a/b
+Q7	Command to create a directory named photos
+Ans	Mkdir photos
+Q8	Command to make a directory and subdirectory names/mark
+Ans	Mkdir -p names/mark
+Q9	Command to make a directory vids in home folder
+Ans	Mkdir ~/vids
+Q10	Command to make multiple nested subdirectories (e.g.- a1/a2/a3/a4/a5)
+Ans	Mkdir -p a1/a2/a3/a4/a5
+
+
