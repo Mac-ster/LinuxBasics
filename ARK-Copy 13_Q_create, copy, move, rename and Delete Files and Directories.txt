@@ -1,0 +1,28 @@
+Introduction to the LINUX
+Watch the below video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below. You need to type in the Answer in the row indicated with “Ans”
+
+Linux – create, copy, move, rename files | Corey Schafer
+https://www.youtube.com/watch?v=eoejHvAPDFs
+Q1	Command to make a new directory
+Ans	Mkdir
+Q2	Command to change directory
+Ans	Cd
+Q3	Command to copy files
+Ans	cp
+Q4	Command to move a file
+Ans	mv
+Q5	how to rename a file
+Ans	mv
+Q6	how to delete a file
+Ans	Rm
+Q7	Command to find out more about any command
+Ans	Man
+Q8	Flag used to copy a directory with files inside it
+Ans	-R
+Q9	Command to delete a directory
+Ans	Rm -R directory_name
+Q10	Flag used to force delete a file or directory
+Ans	-rf
+
+
