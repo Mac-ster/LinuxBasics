@@ -1,0 +1,46 @@
+Introduction to the LINUX
+Watch the below video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below. You need to type in the Answer in the row indicated with “Ans”
+
+Linux – How to use date command | Technical Junction
+https://www.youtube.com/watch?v=wDzgby4E3Oo
+Q1
+Command to used to display the system’s date and time
+Ans
+date
+Q2
+Command to display only the date of the system
+Ans
+date “+%m-%d-%y” or date “+%D”
+Q3
+Command to display only the time of the system
+Ans
+date “+%H:$M:%S”
+Q4
+Command to display current day
+Ans
+date “%+A”
+Q5
+Syntax to print “TODAY IS :(day)”
+Ans
+date “+Today is %A”
+Q6
+Command to print the current year
+Ans
+date “+%Y”
+Q7
+Command to print current day of the week (numeric)
+Ans
+date “+%u”
+Q8
+Command to display date in the standard format
+Ans
+date -I
+Q9
+format specifier for minute
+Ans
+date “+%M”
+Q10
+format specifier for nanoseconds
+Ans
+date “+%N”
