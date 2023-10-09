@@ -1,0 +1,29 @@
+Introduction to the LINUX
+Watch the below video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below. You need to type in the Answer in the row indicated with “Ans”
+
+Linux – The ls command | Geeksforgeeks
+https://www.youtube.com/watch?v=C1btVko0CVE
+Q1	Linux shell command that list all file names in the current directory
+Ans	ls
+Q2	What does a stand for in ls -a
+Ans	list all.
+It list down all the files and directories in the present directory including the hidden ones.
+Q3	Why do we have to use ls -a to view all the hidden files
+Ans	It list down all the files and directories in the present directory including the hidden ones.
+Q4	How to list the files in order of their modification time
+Ans	ls -t
+Q5	how to list files in the reverse order
+Ans	ls -tr
+Q6	the reversed order is according to _______ order
+Ans	modification
+Q7	What does ls -s do
+Ans	to display files and directories along with their block size.
+Q8	In ls -s the ________ file is placed first in the output
+Ans	largest
+Q9	Command to list the smallest fill first
+Ans	ls -S
+Q10	Command to list files in long format excluding group names
+Ans	ls -l pr ls -tl
+
+
