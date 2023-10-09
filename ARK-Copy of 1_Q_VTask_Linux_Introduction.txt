@@ -1,0 +1,25 @@
+What is Linux?
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans”.
+What is Linux? Linux Beginner Tutorial
+https://www.youtube.com/watch?v=xRX6ZI_P-LA
+
+Q1	WHAT ISAN OPERATING SYSTEM?
+
+ANS	An operating system (OS) is a fundamental software program that manages and controls computer hardware and provides a user-friendly interface for users and applications.
+Q2 	What is Kernel and what it does in OS?
+
+ANS	Kernel is a central part of operating system, that manages computer hardware resources and act as a interface between software application and computer hardware.
+Q3	Whatis Linux?
+
+ANS	Linux is a open source operating system that was launch in 1991
+Q4	What are advantages of Linux OS over other OS?
+
+ANS	1.	Open source
+2.	Stability: It often runs for longer period without needing to be reboot, which makes it more suitable for critical systems in servers
+3.	Customization
+4.	Security
+
+
+

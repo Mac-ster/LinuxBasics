@@ -1,0 +1,27 @@
+What is Linux?
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans”.
+
+What is a Linux distribution?
+https://www.youtube.com/watch?v=F_TrgC7h52s
+
+Q1	WHAT IS THE ROLE OF DISTRIBUTION VENDOR OF LINUX?
+
+ANS	The role of a distribution vendor of Linux is to participate in and create community-powered upstream projects, integrate them and stabilize products platform and solutions.
+Q2	What is Fedora?
+
+ANS	Fedora is Linux Distribution, it is community driven linux distro.
+
+
+Q3	Which bodies manage the Fedora projects?
+
+ANS	Red hat is their primary sponsors, Fedora council and Fedora Engineering Steering Committee (FESCo) are other two
+Q4	What is Red Hat Distribution and what are its features?
+
+
+ANS	It is a Distribution vendor in Linux eco system, which commercially provides linux distribution and it is known for its robust features and long term support.
+
+
+
