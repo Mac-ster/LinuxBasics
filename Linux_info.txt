@@ -1,0 +1,11 @@
+1. What is open source?
+Ans: Open source refers to a type of software or project that is distributed with a license that grants users the rights to view, use, modify, and distribute the source code.
+
+2. What is Linux Distribution?
+Ans: Linux distribution is complete OS built around Linux Kernel.
+    List of few Linux distribution available in market
+    1. Ubuntu
+    2. Debian
+    3. Fedora
+    4. CentOS
+3.
